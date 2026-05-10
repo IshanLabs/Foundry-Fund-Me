@@ -154,18 +154,16 @@ Through this project, I learned:
 
 ---
 
-## Future Improvements
+## Learning Journey
 
-Planned upgrades:
+This project was built as part of my Solidity and Foundry learning path.
 
-* multiple funders testing
-* gas optimization using `cheaperWithdraw()`
-* Chainlink price feed integration
-* Sepolia testnet deployment
-* frontend integration with React + Ethers.js
+The structure and concepts are inspired by the excellent educational content from Cyfrin Updraft, which focuses on building real-world smart contract development skills using Foundry, testing, and deployment best practices.
 
----
+Throughout the development process, I also used ChatGPT as a learning assistant to:
+- Understand Solidity concepts step-by-step
+- Debug Foundry tests and deployment issues
+- Learn industry-standard patterns (HelperConfig, mocks, scripts)
+- Improve code structure and readability
 
-## Author
-
-Built as part of my Solidity + Foundry learning journey while progressing toward larger projects like NFT Minting and NFT Marketplace development.
+All code was written and tested by me while actively learning and iterating through problems.
